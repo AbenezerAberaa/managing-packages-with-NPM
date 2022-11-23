@@ -1,5 +1,5 @@
 {
-	"author": "Abenezer Abera"
+	"author": "Abenezer Abera",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
